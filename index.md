@@ -1,3 +1,7 @@
+<!-- Start cookieyes banner -->
+<script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/9dc1437c6ee89bb077c68157/script-full.js"></script>
+<!-- End cookieyes banner -->
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cy-sha/qa1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
